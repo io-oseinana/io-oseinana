@@ -1,17 +1,7 @@
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">,  I'm Osei-Bonsu Isaac  
   
-
-<a href="https://github.com/io-oseinana" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/IsaacOs87131165" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://linkedin.com/in/oseinana-isaac7" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+ [![Linkedin Badge](https://img.shields.io/badge/@Isaac_Osei--Bonsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://gh.linkedin.com/in/oseinana-isaac7/)](https://linkedin.com/in/oseinana-isaac7)
+[![Twitter Badge](https://img.shields.io/badge/-@IsaacOs87131165-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IsaacOs87131165)](https://twitter.com/IsaacOs87131165)
   
 ![](https://visitor-badge.glitch.me/badge?page_id=io-oseinana)
 
