@@ -1,4 +1,4 @@
-## Hey 👋, I'm Osei-Bonsu Isaac  
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">,  I'm Osei-Bonsu Isaac  
   
 
 <a href="https://github.com/io-oseinana" target="_blank">
