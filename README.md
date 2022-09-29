@@ -13,6 +13,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
+![](https://visitor-badge.glitch.me/badge?page_id=io-oseinana)
 ## 
 
 <a href="https://app.daily.dev/OseiNana"><img src="https://github.com/io-oseinana/io-oseinana/blob/main/devcard.svg" width="400" alt="Isaac Osei-Bonsu's Dev Card"/></a>
