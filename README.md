@@ -2,8 +2,6 @@
   
  [![Linkedin Badge](https://img.shields.io/badge/@Isaac_Osei--Bonsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://gh.linkedin.com/in/io-oseinana/)](https://linkedin.com/in/io-oseinana)
 [![Twitter Badge](https://img.shields.io/badge/-@IsaacOs87131165-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IsaacOs87131165)](https://twitter.com/IsaacOs87131165)
-  
-![](https://visitor-badge.glitch.me/badge?page_id=io-oseinana)
 
 ## 
 
