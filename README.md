@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&labelColor=007ACC)
 ##
 
 - 👀 I’m interested in gaming, reading, coding and music
