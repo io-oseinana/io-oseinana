@@ -14,13 +14,16 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![JS](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Rjs](https://img.shields.io/badge/-ReactJs-blue?logo=react)
+![Rjs](https://img.shields.io/badge/-next.s-000000?logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&labelColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&labelColor=007ACC)
 ##
 
 - 👀 I’m interested in gaming, reading, coding and music
-- 🌱 I’m currently learning Web develepment
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on any ideas on web development
 - 📫 How to reach me oseinana.i75@gmail.com
