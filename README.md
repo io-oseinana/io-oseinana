@@ -22,8 +22,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&labelColor=007ACC)
 ##
-
-- 👀 I’m interested in gaming, reading, coding and music
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on any ideas on web development
-- 📫 How to reach me oseinana.i75@gmail.com
