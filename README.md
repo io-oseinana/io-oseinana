@@ -1,7 +1,7 @@
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">,  I'm Osei-Bonsu Isaac  
   
  [![Linkedin Badge](https://img.shields.io/badge/@Isaac_Osei--Bonsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://gh.linkedin.com/in/io-oseinana/)](https://linkedin.com/in/io-oseinana)
-[![Twitter Badge](https://img.shields.io/badge/-@io_oseinana-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/io_oseinana)](https://twitter.com/io_oseinana)
+[![Twitter Badge](https://img.shields.io/badge/-@io__oseinana-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/io_oseinana)](https://twitter.com/io_oseinana)
 
 ## 
 
